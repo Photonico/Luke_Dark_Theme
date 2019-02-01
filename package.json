@@ -1,0 +1,22 @@
+{
+    "publisher": "ConAntares",
+    "name": "luke-dark-theme",
+    "displayName": "Luke Dark Theme",
+    "description": "A dark VSCode Theme based on Darcula.",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Luke Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Luke Dark-color-theme.json"
+            }
+        ]
+    }
+}
