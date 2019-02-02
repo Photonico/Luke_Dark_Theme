@@ -33,7 +33,7 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 Python:
 
-![Python](/Python.png)
+![Python](Screenshots/Python.png)
 
 ## Preferences shown in the screenshots
 
