@@ -60,4 +60,4 @@ This theme is open source via  [GitHub Repository](https://github.com/ConAntares
 
 ------
 Enjoy it!  
-`✿✿ヽ(°▽°)ノ✿✿`
+✿✿ヽ(°▽°)ノ✿✿
