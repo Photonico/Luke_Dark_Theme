@@ -43,7 +43,7 @@ Python:
 
 ## Acknowledgment
 
-> This dark theme is inspired by the [Darcula Theme](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula).
+* This dark theme is inspired by the [Darcula Theme](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula).
 
 ## More information
 
