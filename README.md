@@ -1,6 +1,6 @@
 # README
 
-![LukeDark](ICON/ICON_256.png)
+![LukeDark](icon/icon_256.png)
 
 ## About Luke Dark Theme
 
@@ -33,7 +33,7 @@ You can download and install this theme via the [Visual Studio Code Marketplace]
 
 Python:
 
-![Python](Screenshots/Python.png)
+![Python](screenshots/Python.png)
 
 ## Preferences shown in the screenshots
 
