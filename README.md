@@ -57,8 +57,8 @@ This theme is open source via  [GitHub Repository](https://github.com/ConAntares
 
 ## Follow me
 
-* [E-Mail](LukeNiu@outlook.com)
-* [GitHub](Github.com/ConAntares)
+* E-Mail: LukeNiu@outlook.com
+* GitHub: Github.com/ConAntares
 
 ------
 Enjoy it!  
