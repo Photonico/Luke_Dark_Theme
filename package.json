@@ -3,7 +3,7 @@
     "publisher": "ConAntares",
     "displayName": "Luke Dark Theme",
     "description": "A dark VSCode Theme based on Darcula.",
-    "repository": "https://github.com/Akhail/vs-code-darcula-theme",
+    "repository": "https://github.com/ConAntares/Luke_Dark_Theme",
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.30.0"
