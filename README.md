@@ -59,4 +59,5 @@ This theme is open source via  [GitHub Repository](https://github.com/ConAntares
 * [GitHub](Github.com/ConAntares)
 
 ------
-Enjoy it!
+Enjoy it!  
+`✿✿ヽ(°▽°)ノ✿✿`
