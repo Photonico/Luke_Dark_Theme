@@ -1,6 +1,6 @@
 # README
 
-![LukeDark](ICON/ICON_600.png)
+![LukeDark](ICON/ICON_256.png)
 
 ## About Luke Dark Theme
 
