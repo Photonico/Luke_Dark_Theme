@@ -39,7 +39,9 @@ Python:
 
 * The font  is [Fira Mono](https://github.com/mozilla/Fira).
 
-* The icons theme is [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode).
+* The file icons theme is [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode).
+
+* The extension which match brackets to be identified with colours is [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2).
 
 ## Acknowledgment
 
