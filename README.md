@@ -49,7 +49,9 @@ Python:
 
 ## More information
 
-This theme is open source via  [GitHub Repository](https://github.com/ConAntares/Luke_Dark_Theme/). I will feel happy if someone can develop his themes based on Luke Dark Theme.
+* This theme is open source via  [GitHub Repository](https://github.com/ConAntares/Luke_Dark_Theme/). I will feel happy if someone can develop his themes based on Luke Dark Theme.
+
+* If you like light themes, please find [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica).
 
 ## License
 

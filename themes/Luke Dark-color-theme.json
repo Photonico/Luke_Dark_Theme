@@ -81,7 +81,7 @@
 		"panelTitle.inactiveForeground": "#D2D2D2",		// 210,210,210
 
 		// Terminal Colors
-		"terminal.background":"#2D2D2D",			// 045,045,045
+		"terminal.background":"#313131",			// 049,049,049
 		"terminal.foreground":"#D2D2D2",			// 210,210,210
 		"terminal.ansiBlack":"#323C50",				// 050,060,080
 		"terminal.ansiRed":"#FF5064",				// 255,080,100
