@@ -669,7 +669,8 @@
 			"settings": 
 			{
 				"fontStyle": "",
-				"foreground": "#BE96B4"		// 190,150,180
+				//"foreground": "#BE96B4"		// 190,150,180
+				"foreground": "#DCB4DC",		// 220,180,220
 			}
 		},
 		{
@@ -2290,7 +2291,8 @@
             "settings": 
             {
 				//"foreground": "#8CC8DC"    // 240,200,140
-				"foreground": "#BE96B4"		// 190,150,180
+				//"foreground": "#BE96B4"		// 190,150,180
+				"foreground": "#DCB4DC",		// 220,180,220
 		    }
 		},
 		{
