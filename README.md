@@ -2,7 +2,12 @@
 
 ![LukeDark](icon/icon_256.png)
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![Made for VSCode](MadeforVSCode.svg)](https://code.visualstudio.com/)
+[![License: MIT](LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
+[![License: Anti996](LicenseNPL.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+![Opensource](OpenSource.svg)
+
 
 ## About Luke Dark Theme
 
