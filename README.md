@@ -2,6 +2,8 @@
 
 ![LukeDark](icon/icon_256.png)
 
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
 ## About Luke Dark Theme
 
 A dark theme is made for [VS Code](https://code.visualstudio.com/). Its soft colors will be helpful for your work. Enjoy !
