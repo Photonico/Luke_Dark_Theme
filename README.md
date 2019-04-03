@@ -8,7 +8,6 @@
 
 ![Opensource](OpenSource.svg)
 
-
 ## About Luke Dark Theme
 
 A dark theme is made for [VS Code](https://code.visualstudio.com/). Its soft colors will be helpful for your work. Enjoy !
