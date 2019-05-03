@@ -498,15 +498,15 @@
 				}
 		},
 		{
-				"name": "Entity Other Attribute Name",
+			"name": "Entity Other Attribute Name",
 			"scope":
 			[
 				"entity.other.attribute-name",
 			],
 				"settings": 
-				{
+			{
 				"foreground": "#F0C864"		// 240,200,100
-				}
+			}
 		},
 		
 		{
@@ -518,45 +518,45 @@
 			}
 		},
 		{
-				"name": "Entity Other Inherited Class",
-				"scope": "entity.other.inherited-class",
+			"name": "Entity Other Inherited Class",
+			"scope": "entity.other.inherited-class",
 			"settings": 
 			{
 				"foreground": "#8CB4F0"			// 140,180,240
-				}
+			}
 		},
 		{
-				"name": "Invalid Deprecated",
-				"scope": "invalid.deprecated",
-				"settings": 
-				{
+			"name": "Invalid Deprecated",
+			"scope": "invalid.deprecated",
+			"settings": 
+			{
 				"foreground": "#B4B4B4"		// 180,180,180
-				}
+			}
 		},
 		
 		{
-				"name": "Invalid Illegal",
-				"scope": "invalid.illegal",
-				"settings": 
-				{
+			"name": "Invalid Illegal",
+			"scope": "invalid.illegal",
+			"settings": 
+			{
 				"foreground": "#C86478",		// 255,100,120
-				}
+			}
 		},
 		{
-				"name": "Keyword",
-				"scope": "keyword",
-				"settings": 
-				{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": 
+			{
 				"foreground": "#FFB400"		// 255,180,000
-				}
+			}
 		},
 		{
-				"name": "Keyword Operator",
-				"scope": "keyword.operator",	// 运算符
-				"settings": 
-				{
+			"name": "Keyword Operator",
+			"scope": "keyword.operator",	// 运算符
+			"settings": 
+			{
 				"foreground": "#A0C8FF"		// 160,200,255
-				}
+			}
 		},
 		{
 			"name": "Logical Operator",	// 逻辑运算符
@@ -732,21 +732,20 @@
 			],
 			"settings": 
 			{
-				"foreground": "#C8D7DC" 	// 200,215,220
+			"foreground": "#C8D7DC" 	// 200,215,220
 			}
-			}, 
-			{
+		}, 
+		{
 			"name": "Punctuation Definition Function Parameters",
 			"scope": 
 			[
-
 				"punctuation.definition.function-parameters",
 			],
 			"settings": 
 			{
-					"foreground": "#A0C8FF"		// 160,200,255
+				"foreground": "#A0C8FF"		// 160,200,255
 			}
-			}, 
+		}, 
 		{
 			"name": "Punctuation Definition Parameters",
 			"scope": 
@@ -766,7 +765,6 @@
 			],
 			"settings": 
 			{
-				//"foreground": "#A0C8FF"		// 160,200,255
 				"foreground": "#D2D2D2"		// 210,210,210
 			}
 			},
@@ -778,7 +776,6 @@
 			],
 			"settings": 
 			{
-				//"foreground": "#A0C8FF"		// 160,200,255
 				"foreground": "#D2D2D2"		// 210,210,210
 			}
 			},
@@ -815,7 +812,6 @@
 			"settings": 
 			{
 					"foreground": "#D2D2D2"		// 210,210,210
-					//"foreground": "#A0C8FF"		// 160,200,255
 			}
 			},
 			{
@@ -827,7 +823,6 @@
 			"settings": 
 			{
 					"foreground": "#D2D2D2"		// 210,210,210
-					//"foreground": "#A0C8FF"		// 160,200,255
 			}
 			},
 		{
@@ -839,7 +834,6 @@
 			"settings": 
 			{
 				"foreground": "#D2D2D2"		// 210,210,210
-				//"foreground": "#A0C8FF"		// 160,200,255
 			}
 			},
 		{
@@ -1219,26 +1213,24 @@
 	
 
 		{
-				"name": "[C/CPP] Punctuation Separator Pointer-Access",
-				"scope": "punctuation.separator.pointer-access.c",
-						"settings": 
-						{
-				//"foreground": "#C8D7DC" 	// 200,215,220			    
+			"name": "[C/CPP] Punctuation Separator Pointer-Access",
+			"scope": "punctuation.separator.pointer-access.c",
+			"settings": 
+			{		    
 				"foreground": "#A0C8FF" 	// 160,200,255
-				}
+			}
 		},
 		{
-				"name": "[C/CPP] Meta Preprocessor Include",
-						"scope": 
-						[
-					"source.c meta.preprocessor.include",
-					"source.c string.quoted.other.lt-gt.include",
-				],
-						"settings": 
-						{
-				//"foreground": "#96AABE"		// 150,170,190
+			"name": "[C/CPP] Meta Preprocessor Include",
+			"scope": 
+			[
+				"source.c meta.preprocessor.include",
+				"source.c string.quoted.other.lt-gt.include",
+			],
+			"settings": 
+			{
 				"foreground": "#C8D7DC" 	// 200,215,220
-				}
+			}
 		},
 		{
 				"name": "[C/CPP] Conditional Directive",
@@ -1378,8 +1370,6 @@
 			],
 			"settings": 
 			{
-				//"foreground": "#AAC864" 	// 170,200,100
-				//"foreground": "#A0C8FF" 	// 160,200,255
 				"foreground": "#8CC8C8"		// 140,200,200
 				
 			}
@@ -1416,14 +1406,13 @@
 			],
 			"settings": 
 			{
-				//"foreground": "#A0C8FF" 	// 160,200,255
 				"foreground": "#B4DCB4"		// 180,220,180
 			}
 		},
 		
 		{
-				"name": "[CSS](Function) Meta Property-Value",
-				"scope": "source.css meta.property-value",
+			"name": "[CSS](Function) Meta Property-Value",
+			"scope": "source.css meta.property-value",
 			"settings": 
 			{
 				"foreground": "#A0C8FF"		// 160,200,255
@@ -1479,9 +1468,6 @@
 			],
 			"settings": 
 			{
-				//"foreground": "#F07828" 	// 240,120,040
-				//"foreground": "#A0C8FF"		// 160,200,255	
-				//"foreground": "#F0C864"		// 240,200,100
 				"foreground": "#F0C864"		// 240,200,100
 			}
 		},
@@ -2433,7 +2419,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#96D2FF"		// 150,210,255
+				"foreground": "#8CDCFF"		// 140,220,255
 			}
 		},
 		{
