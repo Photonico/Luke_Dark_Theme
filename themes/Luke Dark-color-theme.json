@@ -57,7 +57,7 @@
 		"editorCodeLens.foreground":"#D2D2D2",					// 210,210,210
 		"editorBracketMatch.background":"#5A5A5A",				// 090,090,090
 		//"editorBracketMatch.border":"#8C8C8C",				// 140,140,140
-		"editorError.foreground":"#FF5064",						// 255,080,100
+		"editorError.foreground":"#E6503C",						// 230,080,060
 		"editorWarning.foreground":"#96B48C",					// 150,180,140
 		"editorInfo.foreground":"#A078C8",						// 160,120,200
 		"editorHint.foreground":"#788CA0",						// 160,120,200
