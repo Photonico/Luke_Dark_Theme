@@ -6,6 +6,8 @@
 	Github.com/Conantares
 */
 
+// Inspect TM Scope: >tm scope
+
 {
 	"name": "Luke Dark", 
 	"type": "dark",
@@ -338,90 +340,84 @@
 				"foreground": "#DCB4DC" 	// 220,180,220
 			}
 		},
-
 		{
 			"name": "Constant Character",
-				"scope": 
-				[
-			 	"constant",
-				],
+			"scope": 
+			[
+				"constant",
+			],
 			"settings": 
 			{
-					"foreground": "#C8C8FF"		// 200,200,255
+				"foreground": "#C8C8FF"		// 200,200,255
 			}
 		},
 		
 		{
 			"name": "Constant Other",
-				"scope": 
-				[
-					"constant.character",
+			"scope": 
+			[
+				"constant.character",
 				"constant.other",
 				"constant.other.symbol", 
-				],
+			],
 			"settings": 
 			{
-					"foreground": "#C8B4FF"		// 200,180,255
+				"foreground": "#C8B4FF"		// 200,180,255
 			}
-			},
-		{
-				"name": "Constant Character Escape",
-				"scope": "constant.character.escape", // \t,\n 这些符号
-				"settings": 
-				{
-				"foreground": "#8CB4B4"		// 140,80,180
-				}
 		},
 		{
-				"name": "Constant Language",	// 语言内置的 Constant?
-				"scope": 
-				[
+			"name": "Constant Character Escape",
+			"scope": "constant.character.escape",
+			"settings": 
+			{
+				"foreground": "#8CB4B4"		// 140,80,180
+			}
+		},
+		{
+			"name": "Constant Language",
+			"scope": 
+			[
 				"constant.language",
 				"constant.language.json"
 			],
-				"settings": 
-				{
+			"settings": 
+			{
 				"foreground": "#8CC8C8"		// 140,200,200
-				//"foreground": "#C8AFE6"		// 200,175,230
-				//"foreground": "#DCB4DC" 	// 220,180,220
-				}
+			}
 		},
 		{
-				"name": "Constant Numeric",
+			"name": "Constant Numeric",
 			"scope": 
 			[
 				"ts.block.class.declaration.method.constant.numeric.decimal"
 			],  
 			"settings": 
 			{
-				//"foreground": "#64A0C8" 	// 100,160,200
 				"foreground": "#B4DCB4"		// 180,220,180
-				}
+			}
 		},
 		{
 			"name": "[C/C++] Constant Numeric",
-				"scope": 
-				[
+			"scope": 
+			[
 				"constant.numeric.c",
 				"constant.numeric.cpp",
 			],  
 				"settings": 
-				{
+			{
 				"foreground": "#B4DCF0" 	// 180,220,240
-				//"foreground": "#B4DCB4"		// 180,220,180
 			}
-			},
+		},
 		{
-				"name": "Constant Regexp",
-				"scope": "constant.regexp",
+			"name": "Constant Regexp",
+			"scope": "constant.regexp",
 			"settings": 
 			{
 				"foreground": "#B4DCB4"		// 180,220,180
-				//"foreground":"#96B48C"		// 150,180,140
-				}
+			}
 		},
 		{
-				"name": "Entity Name Class/Type",
+			"name": "Entity Name Class/Type",
 			"scope": 
 			[
 				"entity.name.class",
@@ -430,54 +426,60 @@
 			],
 			"settings": 
 			{
-				//"foreground": "#D2D2D2"		// 210,210,210
 				"foreground": "#D2D2DC"		// 210,210,220
-				}
+			}
 		},
-		
 		{
-				"name": "Entity Name Function",		// 函数
+			"name": "Entity Name Function",
 			"scope": 
 			[
 				"entity.name.function",
 				"meta.require",
 			],
 				"settings": 
-				{
+			{
 				"foreground": "#78C8F0"		// 120,200,240
-				}
+			}
 		},
 		{
-			"name": "[Python] Entity Name Function",		// 函数
-				"scope": 
-				[
-					"entity.name.function.python",
-				],
+			"name": "[Python] Entity Name Function",
+			"scope": 
+			[
+				"entity.name.function.python",
+			],
 			"settings": 
 			{
-					"foreground": "#64B4F0"		// 100,180,240
+				"foreground": "#64B4F0"		// 100,180,240
 			}
-			},
+		},
 		{
-			"name": "[Julia] Entity Name Function",		// 函数
-				"scope": 
-				[
-					"entity.name.function.julia",
-					//"meta.require.julia",
-				],
+			"name": "[Python] Special Self",
+			"scope": 
+			[
+				"source.python variable.language.special.self.python",
+			],
 			"settings": 
 			{
-					"foreground": "#B4A0F0",			// 180,160,240
-					//"foreground": "#C8AFE6"		// 200,175,230
+				"foreground": "#BEAAFA"				// 190,170,250
 			}
-			},
+		},
+		{
+			"name": "[Julia] Entity Name Function",
+			"scope": 
+			[
+				"entity.name.function.julia",
+			],
+			"settings": 
+			{
+				"foreground": "#BEAAFA",			// 190,170,250
+			}
+		},
 		{
 			"name": "Methods",
 			"scope": "keyword.other.special-method",
 			"settings": 
 			{
 				"foreground": "#8CB4F0"		// 140,180,240
-				//"foreground": "#ff0800"		// 140,180,240
 			}
 		},
 		{
@@ -489,13 +491,12 @@
 			}
 		},
 		{
-				"name": "Entity Name Tag",
-				"scope": "entity.name.tag",
+			"name": "Entity Name Tag",
+			"scope": "entity.name.tag",
 			"settings": 
 			{
 				"foreground": "#F0C864"		// 240,200,100
-				//"foreground": "#f70707"		// 240,200,100
-				}
+			}
 		},
 		{
 			"name": "Entity Other Attribute Name",
@@ -1287,7 +1288,6 @@
 			],
 			"settings": 
 			{
-				//"foreground": "#C8D7DC" 	// 200,215,220
 				"foreground": "#A0C8FF" 	// 160,200,255
 				
 			}
@@ -2427,7 +2427,7 @@
 			"scope": "source.python support.type",
 			"settings": 
 			{
-				"foreground": "#DCA0F0"		// 220,160,240
+				"foreground": "#E196F0"		// 225,150,240
 			}
 		},
 		{
@@ -2438,7 +2438,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#A0C8FF"		// 160,200,255
+				"foreground": "#AAB4FF"		// 170,180,255
 			}
 		},
 		{
@@ -2449,14 +2449,13 @@
 			],
 			"settings": 
 			{
-
-				"foreground": "#A0C8FF"		// 160,200,255
+				"foreground": "#D796FA"		// 215,150,250
 			}
 		},
 		{
-				"name": "[SCSS] Punctuation Definition Interpolation Bracket Curly",
-				"scope": 
-				[
+			"name": "[SCSS] Punctuation Definition Interpolation Bracket Curly",
+			"scope": 
+			[
 				"source.css.scss punctuation.definition.interpolation.begin.bracket.curly",
 				"source.css.scss punctuation.definition.interpolation.end.bracket.curly",
 				"punctuation.definition.interpolation.begin.bracket.curly.scss",
@@ -2676,30 +2675,29 @@
 			}
 		},
 		{
-				"name": "[TypeScript] Static Class Support",
+			"name": "[TypeScript] Static Class Support",
 			"scope": 
 			[
 				"source.ts support.constant.math",
 				"source.ts support.constant.dom",
 				"source.ts support.constant.json"
 			],
-						"settings": 
-						{
-				//"foreground": "#AAC864" 	// 170,200,100
-				//"foreground": "#D2D2D2"		// 210,210,210
+			"settings": 
+			{
+
 				"foreground": "#8CC8C8"		// 140,200,200
-				}
+			}
 		},
 		{
-				"name": "[TypeScript] Variables",
-						"scope": 
-						[
-					"source.ts support.variable"
-				],
-						"settings": 
-						{
-					"foreground": "#D2D2D2"		// 210,210,210
-				}
+			"name": "[TypeScript] Variables",
+			"scope": 
+			[
+				"source.ts support.variable"
+			],
+			"settings": 
+			{
+				"foreground": "#D2D2D2"		// 210,210,210
+			}
 		},
 		{
 			"name": "[TypeScript] Punctuation",
@@ -2709,7 +2707,6 @@
 			],
 			"settings": 
 			{
-				//"foreground": "#C8D7DC" 	// 200,215,220
 				"foreground": "#C8646E"		// 200,100,100
 			}
 		},
