@@ -12,7 +12,7 @@
 
 A dark theme is made for [VS Code](https://code.visualstudio.com/). Its soft colors will be helpful for your work. Enjoy !
 
-Luke Dark Theme has been merged in to [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica). Please install [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica).
+Luke Dark Theme has been merged into [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica). Please install [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica).
 
 ## Getting started
 
