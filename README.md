@@ -8,7 +8,7 @@
 
 ![Open Source](https://github.com/ConAntares/About/blob/master/Attachments/OpenSource.svg) -->
 
-## About Photonics(Luke Dark Theme)
+## About Luke Dark Theme
 
 A dark theme is made for [VS Code](https://code.visualstudio.com/). Its soft colors will be helpful for your work. Enjoy !
 
